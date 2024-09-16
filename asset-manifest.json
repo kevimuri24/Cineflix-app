@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-movie-snack-shop/static/css/main.b0ba55eb.css",
+    "main.js": "/my-movie-snack-shop/static/js/main.eaf11f6d.js",
+    "static/js/453.46c055cc.chunk.js": "/my-movie-snack-shop/static/js/453.46c055cc.chunk.js",
+    "index.html": "/my-movie-snack-shop/index.html",
+    "main.b0ba55eb.css.map": "/my-movie-snack-shop/static/css/main.b0ba55eb.css.map",
+    "main.eaf11f6d.js.map": "/my-movie-snack-shop/static/js/main.eaf11f6d.js.map",
+    "453.46c055cc.chunk.js.map": "/my-movie-snack-shop/static/js/453.46c055cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0ba55eb.css",
+    "static/js/main.eaf11f6d.js"
+  ]
+}
